@@ -1,0 +1,5 @@
+{
+  "name": "BearAvatar 3D",
+  "description": "A fully interactive, procedurally generated 3D Bear Avatar based on the provided design specs. Features smooth state transitions (Idle, Happy, Sleepy) and mouse tracking using React Three Fiber.",
+  "requestFramePermissions": []
+}
